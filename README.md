@@ -1,16 +1,17 @@
 # flutter_whatsappclone
 
-A new Flutter application.
+The application is a WhatsApp clone. Work continues on it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The interface has been completed on a large scale.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Messaging is complete. Socket.IO is being used.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Project for Service => https://github.com/gulcanaslanproje/Chat-Server
+
+
+The project was developed for educational purposes.
+
+
